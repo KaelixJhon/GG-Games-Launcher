@@ -1,0 +1,2 @@
+# GG-Games-Launcher
+nothing
